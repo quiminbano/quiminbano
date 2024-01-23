@@ -34,7 +34,7 @@ I am Carlos Orellana, a passionate software developer from Chile but living in F
 - **Tools & Platforms:**
   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Text Editors & IDEs:**
+- **Text Editors & IDEs:**
   - ![VIM](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
