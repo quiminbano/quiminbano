@@ -9,6 +9,7 @@ I am Carlos Orellana, a passionate software developer from Chile but living in F
   
 - 📫 How to reach me: [email](corellana1988@gmail.com)
 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 <!--
 **quiminbano/quiminbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
