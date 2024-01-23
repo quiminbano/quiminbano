@@ -23,6 +23,28 @@ I am Carlos Orellana, a passionate software developer from Chile but living in F
 
 - **Database Management:**
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+- **Frameworks:**
+  - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+- **Version Control:**
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+- **Tools & Platforms:**
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Text Editors & IDEs:**
+  - ![VIM](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+  - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=quiminbano&show_icons=true&hide=issues&theme=radical)](https://github.com/quiminbano)
+
+## 🌐 Connect with Me
+
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/carlos-orellana-3a93347b/)
 <!--
 **quiminbano/quiminbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
