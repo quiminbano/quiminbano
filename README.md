@@ -7,7 +7,7 @@ I am Carlos Orellana, a passionate software developer from Chile but living in F
   
 - 🌱 I’m currently learning web development, tests frameworks and currently learning bash scripting and rust.
   
-- 📫 How to reach me: [email/corellana1988@gmail.com]
+- 📫 How to reach me: [email](corellana1988@gmail.com)
 
 <!--
 **quiminbano/quiminbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
