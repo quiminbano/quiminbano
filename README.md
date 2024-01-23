@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am Carlos
+I am Carlos Orellana, a passionate software developer from Chile but living in Finland. Currently I am finishing my studies at HIVE Helsinki.
+
+## About me
+- 🔭 I’m currently working on ft_transcendence, the last project of the curriculum from HIVE Helsinki (42 Network)
 
 <!--
 **quiminbano/quiminbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
