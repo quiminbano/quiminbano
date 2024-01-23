@@ -12,9 +12,17 @@ I am Carlos Orellana, a passionate software developer from Chile but living in F
 - 📫 How to reach me: [email](corellana1988@gmail.com)
 
 ## 🛠️ Technologies & Tools
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- **Programming Languages:**
+  - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+  - ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- **Shell & Scripting:**
+  - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+- **Database Management:**
+  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 <!--
 **quiminbano/quiminbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
