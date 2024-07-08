@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I am Carlos Orellana, a passionate software developer from Chile but living in Finland. Currently I am finishing my studies at HIVE Helsinki.
+I am Carlos Orellana, a passionate software developer from Chile but living in Finland. Currently I finished my study plan at HIVE Helsinki and now I am looking for some job opportunities.
 
 ## About me
-- 🔭 I’m currently working on ft_transcendence, the last project of the curriculum from 42 Network (HIVE Helsinki). Also I am creating my own unit tester for pipex, another project of 42 network.
   
-- 🌱 I’m currently learning web development, tests frameworks and currently learning bash scripting and rust.
+- 🌱 I’m currently learning embedded systems, tests frameworks, bash scripting and rust.
 
 - 💬 You can ask me about programming in C, programming in C++, programming in python, UNIX programming, object oriented programming, dockerize a project, etc.
   
