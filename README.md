@@ -8,7 +8,7 @@ I am Carlos Orellana, a passionate software developer from Chile but living in F
 
 - 💬 You can ask me about programming in C, programming in C++, programming in python, UNIX programming, object oriented programming, dockerize a project, etc.
   
-- 📫 How to reach me: [email](corellana1988@gmail.com)
+- 📫 How to reach me: [email](dev.carlos.orellana@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
