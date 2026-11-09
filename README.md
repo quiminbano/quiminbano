@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Carlos Orellana, a passionate software developer from Chile but living in Finland. Currently I finished my study plan at HIVE Helsinki and now I am looking for some job opportunities.
+I am Carlos, a passionate software developer from Chile but living in Finland. Currently I finished my study plan at HIVE Helsinki and now I am looking for some job opportunities.
 
 ## About me
   
